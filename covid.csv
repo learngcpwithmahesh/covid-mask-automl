@@ -1,0 +1,60 @@
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/1.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/2.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/3.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/4.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/5.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/6.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/7.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/8.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/9.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/10.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/11.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/12.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/13.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/14.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/15.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/16.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/17.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-no-mask/18.jpg,NO Mask
+VALIDATION,gs://learn-gcp-with-mahesh-no-mask/19.jpg,NO Mask
+VALIDATION,gs://learn-gcp-with-mahesh-no-mask/20.jpg,NO Mask
+VALIDATION,gs://learn-gcp-with-mahesh-no-mask/21.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/22.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/23.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/24.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/25.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/26.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/27.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/28.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/29.jpg,NO Mask
+TEST,gs://learn-gcp-with-mahesh-no-mask/30.jpg,NO Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/1.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/2.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/3.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/4.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/5.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/6.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/7.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/8.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/9.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/10.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/11.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/12.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/13.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/14.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/15.jpg,Mask
+TRAIN,gs://learn-gcp-with-mahesh-mask/16.jpg,Mask
+VALIDATION,gs://learn-gcp-with-mahesh-mask/17.jpg,Mask
+VALIDATION,gs://learn-gcp-with-mahesh-mask/18.jpg,Mask
+VALIDATION,gs://learn-gcp-with-mahesh-mask/19.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/20.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/21.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/22.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/23.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/24.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/25.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/26.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/27.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/28.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/29.jpg,Mask
+TEST,gs://learn-gcp-with-mahesh-mask/30.jpg,Mask
